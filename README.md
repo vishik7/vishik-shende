@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VISHIK SHENDE</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
-
+<img align="right" alt="coding" width="600" src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif">
 
 <p align="left"> <a href="https://twitter.com/@vishikshende" target="blank"><img src="https://img.shields.io/twitter/follow/@vishikshende?logo=twitter&style=for-the-badge" alt="@vishikshende" /></a> </p>
 
