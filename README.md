@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm VISHIK SHENDE</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishik7" alt="vishik7" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@vishikshende" target="blank"><img src="https://img.shields.io/twitter/follow/@vishikshende?logo=twitter&style=for-the-badge" alt="@vishikshende" /></a> </p>
 
